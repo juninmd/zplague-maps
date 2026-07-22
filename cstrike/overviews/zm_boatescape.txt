@@ -1,0 +1,14 @@
+// overview description file for zm_boatescape.bsp
+
+global 
+{
+	ZOOM	0.76
+	ORIGIN	-669 	31	-678
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_boatescape.bmp"
+	HEIGHT	-678
+}

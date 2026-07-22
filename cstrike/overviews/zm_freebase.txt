@@ -1,0 +1,14 @@
+// overview description file for zm_freebase.bsp
+
+global 
+{
+	ZOOM	2.99
+	ORIGIN	0.50	-26.50	243.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_freebase.bmp"
+	HEIGHT	-1.00
+}

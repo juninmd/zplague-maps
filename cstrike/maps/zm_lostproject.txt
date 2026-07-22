@@ -1,0 +1,14 @@
+zm_lostproject - made by Wheatley_ (steam kuz4)
+----------------------------------
+
+Story : You and your team are trapped in laboratories where unknown virus is spreading. You have to survive!
+
+Simple map, with 3 levels and many camps.
+There are some hidden places to find :)
+----------------------------------
+
+textures - severklan
+models - hl-lab
+ ____________
+|vhecenter.pl|
+--------------

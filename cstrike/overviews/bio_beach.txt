@@ -1,0 +1,14 @@
+// overview description file for bio_beach.bsp
+
+global 
+{
+	ZOOM	1.75
+	ORIGIN	862	-256	-577
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/bio_beach.bmp"
+	HEIGHT	-435
+}

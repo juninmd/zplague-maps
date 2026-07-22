@@ -1,0 +1,14 @@
+//overview description file for zm_infantry.bsp
+
+global
+{
+	ZOOM	3.00
+	ORIGIN	-192        0.63	    328
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/zm_infantry.tga"
+	HEIGHT	-129
+} 

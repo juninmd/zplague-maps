@@ -1,0 +1,13 @@
+Roscoe_street - Zombie mod or Deathmatch
+
+Mapping by:
+CeBep (vk.com/alexsandrsever)
+
+Texstures by: Remedy Game Studio
+
+Objectives:
+- Zombies: Infect humans and multiply
+- Humans: Prevent the reproduction
+of zombies and eliminate them
+
+Other Notes: Several secret areas are available

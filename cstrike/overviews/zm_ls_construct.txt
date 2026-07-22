@@ -1,0 +1,12 @@
+global
+{
+	ZOOM 1.28
+	ORIGIN -490.82 -56.90 -438
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE "overviews/zm_ls_construct.bmp"
+	HEIGHT -438
+}

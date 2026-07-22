@@ -1,0 +1,20 @@
+:: zm_huebunker
+
+:: Designed for Zombie Plague CS Mod.
+
+
+
+:: Sounds from Half-Quake : Amen
+
+:: http://halfquake.com
+
+
+
+:: Author :: 3zzzTyle [ :: AKA Serenity ]
+
+:: Thx to KoDPortal.ru Zombie Plague Server players for alpha/beta-testing
+
+
+:: HP [other maps] :: http://3zzzTyle.com
+
+:: Mail [Send your crap here] :: 3zzzTyle@gmail.com

@@ -1,0 +1,5 @@
+maps/zm_mkdualdust.bsp
+maps/zm_mkdualdust.res
+models/cactus.mdl
+models/stree3.mdl
+models/geo_tire.mdl

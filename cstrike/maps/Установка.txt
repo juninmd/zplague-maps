@@ -1,0 +1,7 @@
+папку ze_jurassickpark3 из папки models поместите в ПАПКА_С_ИГРОЙ_CS_1.6/cstrike/models/
+
+файлы из папки sound поместите в ПАПКА_С_ИГРОЙ_CS_1.6/cstrike/sound/
+
+файлы из папки maps поместите в ПАПКА_С_ИГРОЙ_CS_1.6/cstrike/maps/
+
+файлы из папки sprites поместите в ПАПКА_С_ИГРОЙ_CS_1.6/cstrike/sprites/

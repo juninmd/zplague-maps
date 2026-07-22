@@ -1,0 +1,14 @@
+gfx/env/cl_desertup.tga
+gfx/env/cl_desertdn.tga
+gfx/env/cl_desertlf.tga
+gfx/env/cl_desertrt.tga
+gfx/env/cl_desertft.tga
+gfx/env/cl_desertbk.tga
+models/skeleton.mdl
+models/pred_plant.mdl
+models/abone_template1.mdl
+sprites/glow02.spr
+sound/ambience/waterrun.wav
+models/ez_egypt_dog.mdl
+models/ez_faraon.mdl
+maps/bio_mystery.txt

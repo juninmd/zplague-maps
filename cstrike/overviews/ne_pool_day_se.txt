@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.90
+	ORIGIN	255	0	-200
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ne_pool_day_se.bmp"
+	HEIGHT	-200
+}

@@ -1,0 +1,14 @@
+//overview description file for zm_office_b2.bsp
+
+global
+{
+	ZOOM	1.51
+	ORIGIN	-12.56          62	     90
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/zm_office_b2.tga"
+	HEIGHT	-813
+} 

@@ -1,0 +1,14 @@
+// overview description file for zm_lostproject.bsp
+
+global 
+{
+	ZOOM	2.06
+	ORIGIN	-1610.00	1394.00	56.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_lostproject.tga"
+	HEIGHT	-897
+}

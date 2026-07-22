@@ -1,0 +1,14 @@
+//overview description file for zm_megahard.bsp
+
+global
+{
+	ZOOM	3.20
+	ORIGIN	255.69         320	    0
+	ROTATED 1
+}
+
+layer
+{
+	IMAGE	"overviews/zm_megahard.tga"
+	HEIGHT	-513 
+} 
