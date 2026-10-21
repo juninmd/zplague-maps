@@ -68,7 +68,7 @@ Legenda: `[ ]` falta baixar · `[x]` já está no repo · `[~]` só existe uma v
 | [ ] | `zm_ark_ice_defense_v1` | 2 servidores / 22 jogadores |
 | [ ] | `zm_luz` | 2 servidores / 21 jogadores |
 | [ ] | `zm_laboratory` | 26 jogadores em 1 servidor |
-| [ ] | `zm_zombattack` | 25 jogadores em 1 servidor. Repo só tem `zm_zombattack_new` |
+| [~] | `zm_zombattack` | 25 jogadores em 1 servidor. Repo só tem `zm_zombattack_new` |
 | [ ] | `zm_rs_colors_zero_remake` | 24 a 25 jogadores |
 | [ ] | `zm_fastplay` | 23 a 24 jogadores |
 | [ ] | `zm_gbox_mxp_se` | 22 a 27 jogadores |
@@ -77,7 +77,7 @@ Legenda: `[ ]` falta baixar · `[x]` já está no repo · `[~]` só existe uma v
 | [ ] | `zm_gg` | 2 servidores / 18 jogadores |
 | [ ] | `zm_fox_v2` | 4 servidores / 8 jogadores |
 | [ ] | `zm_dust2` | 3 servidores / 12 jogadores |
-| [ ] | `zm_arctic_fun_2016` | já no repo, ver `[x]` abaixo |
+| [x] | `zm_arctic_fun_2016` | 30 jogadores em 1 servidor; já no repo |
 | [x] | `zm_aztec_infinity` | já no repo |
 | [x] | `zm_effect` | já no repo |
 
