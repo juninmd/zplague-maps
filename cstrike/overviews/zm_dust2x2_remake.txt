@@ -1,0 +1,14 @@
+// overview description file for zm_dust2x2_remake.bsp
+
+global 
+{
+	ZOOM	1.88
+	ORIGIN	744.00 -880.00 -49.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_dust2x2_remake.bmp"
+	HEIGHT	-49.00
+}

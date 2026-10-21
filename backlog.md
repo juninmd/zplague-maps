@@ -22,17 +22,17 @@ Legenda: `[ ]` falta baixar · `[x]` já está no repo · `[~]` só existe uma v
 
 | Status | Mapa | Evidência |
 |---|---|---|
-| [ ] | `zm_dust_world` | #1 nas duas listas (14 servidores / 127 jogadores; 57 servidores) |
+| [x] | `zm_dust_world` | #1 nas duas listas (14 servidores / 127 jogadores; 57 servidores) |
 | [ ] | `zm_foda` | 9 servidores / 130 jogadores; 34 servidores; 2 servidores no gs4u |
 | [ ] | `zm_fdust2x2` | 35 servidores; 6 servidores no varq |
-| [ ] | `zm_dust2_2k15` | 33 servidores; 3 servidores no varq |
-| [ ] | `zm_cross` | 33 servidores; 2 servidores no varq |
-| [ ] | `zm_fox` | 22 servidores; 3 servidores no varq; 2 no gs4u |
+| [x] | `zm_dust2_2k15` | 33 servidores; 3 servidores no varq |
+| [x] | `zm_cross` | 33 servidores; 2 servidores no varq |
+| [x] | `zm_fox` | 22 servidores; 3 servidores no varq; 2 no gs4u |
 | [ ] | `zm_zero_blood` | 22 servidores; 3 servidores no varq; 1 no gs4u |
 | [ ] | `zm_vendetta_v1` | 24 servidores (boost); 29 jogadores em 1 servidor |
 | [ ] | `zm_fortuna` | 21 servidores (boost); 2 servidores no gs4u |
-| [ ] | `zm_dust2_2x2` | 5 servidores / 46 jogadores; 1 servidor no gs4u |
-| [~] | `zm_3rooms` | 41 servidores (boost). Repo só tem `zm_3rooms_v2_fix`; falta `zm_3rooms` e `zm_3rooms_csa` |
+| [x] | `zm_dust2_2x2` | 5 servidores / 46 jogadores; 1 servidor no gs4u |
+| [x] | `zm_3rooms` | 41 servidores (boost). Baixado; `zm_3rooms_csa` (gs4u) ainda falta |
 | [x] | `zm_deko2` | 53 servidores; já no repo |
 | [x] | `zm_battleground_foda` | 41 servidores; já no repo |
 | [x] | `zm_zombust` | 32 servidores; já no repo |
@@ -46,37 +46,37 @@ Legenda: `[ ]` falta baixar · `[x]` já está no repo · `[~]` só existe uma v
 | Status | Mapa | Evidência |
 |---|---|---|
 | [ ] | `zm_pis2` | 20 servidores (boost) |
-| [ ] | `zm_texas_night` | 20 servidores (boost) |
-| [ ] | `zm_ice_attack2` | 19 servidores (boost) |
+| [x] | `zm_texas_night` | 20 servidores (boost) |
+| [x] | `zm_ice_attack2` | 19 servidores (boost) |
 | [ ] | `zm_cscreativ_v1` | 2 servidores / 54 jogadores (varq) |
 | [ ] | `zm_world_rmx_fixed` | 4 servidores / 25 jogadores |
-| [ ] | `zm_snowbase2` | 5 servidores / 20 jogadores; também no gs4u |
+| [x] | `zm_snowbase2` | 5 servidores / 20 jogadores; também no gs4u |
 | [ ] | `zm_assault` | 3 servidores / 29 jogadores |
-| [ ] | `zm_tonga_remake` | 1 servidor / 31 jogadores; variante `zmrush_tonga_remake` no gs4u |
-| [ ] | `zm_dd_v1` | 1 servidor / 31 jogadores |
+| [x] | `zm_tonga_remake` | 1 servidor / 31 jogadores; variante `zmrush_tonga_remake` no gs4u |
+| [ ] | `zm_dd_v1` | 1 servidor / 31 jogadores. Download da GameBanana veio com CRC inválido (arquivo corrompido na origem) |
 | [ ] | `zm_carbon_castle2_snow` | 1 servidor / 31 jogadores |
-| [ ] | `zm_gbox6` | 3 servidores / 20 jogadores |
-| [ ] | `zm_fun_world_allstars` | 30 jogadores em 1 servidor; cheio no gs4u (30/32) |
-| [ ] | `zm_long_night_v2` | 2 servidores / 24 jogadores |
-| [ ] | `zm_desolation_house` | 30/30 no gs4u |
-| [ ] | `zm_orange` | 28 a 29 jogadores em 1 servidor |
+| [x] | `zm_gbox6` | 3 servidores / 20 jogadores |
+| [x] | `zm_fun_world_allstars` | 30 jogadores em 1 servidor; cheio no gs4u (30/32) |
+| [x] | `zm_long_night_v2` | 2 servidores / 24 jogadores |
+| [x] | `zm_desolation_house` | 30/30 no gs4u |
+| [x] | `zm_orange` | 28 a 29 jogadores em 1 servidor |
 | [ ] | `zm_kaozcity` | 28 jogadores em 1 servidor |
-| [ ] | `zm_dusts` | 28 jogadores em 1 servidor |
-| [ ] | `zm_dust2_new` | 2 servidores / 23 jogadores |
-| [ ] | `zm_dust2x2_remake` | 2 servidores / 23 jogadores |
+| [x] | `zm_dusts` | 28 jogadores em 1 servidor |
+| [x] | `zm_dust2_new` | 2 servidores / 23 jogadores |
+| [x] | `zm_dust2x2_remake` | 2 servidores / 23 jogadores |
 | [ ] | `zm_aztec_temple` | 28 jogadores em 1 servidor |
-| [ ] | `zm_ark_ice_defense_v1` | 2 servidores / 22 jogadores |
-| [ ] | `zm_luz` | 2 servidores / 21 jogadores |
+| [x] | `zm_ark_ice_defense_v1` | 2 servidores / 22 jogadores |
+| [x] | `zm_luz` | 2 servidores / 21 jogadores |
 | [ ] | `zm_laboratory` | 26 jogadores em 1 servidor |
 | [~] | `zm_zombattack` | 25 jogadores em 1 servidor. Repo só tem `zm_zombattack_new` |
 | [ ] | `zm_rs_colors_zero_remake` | 24 a 25 jogadores |
 | [ ] | `zm_fastplay` | 23 a 24 jogadores |
 | [ ] | `zm_gbox_mxp_se` | 22 a 27 jogadores |
-| [ ] | `zm_dust_undead` | 2 servidores / 17 jogadores |
-| [ ] | `zm_zhell` | 3 servidores / 14 jogadores |
-| [ ] | `zm_gg` | 2 servidores / 18 jogadores |
+| [x] | `zm_dust_undead` | 2 servidores / 17 jogadores |
+| [x] | `zm_zhell` | 3 servidores / 14 jogadores |
+| [x] | `zm_gg` | 2 servidores / 18 jogadores |
 | [ ] | `zm_fox_v2` | 4 servidores / 8 jogadores |
-| [ ] | `zm_dust2` | 3 servidores / 12 jogadores |
+| [x] | `zm_dust2` | 3 servidores / 12 jogadores |
 | [x] | `zm_arctic_fun_2016` | 30 jogadores em 1 servidor; já no repo |
 | [x] | `zm_aztec_infinity` | já no repo |
 | [x] | `zm_effect` | já no repo |
@@ -111,7 +111,7 @@ Legenda: `[ ]` falta baixar · `[x]` já está no repo · `[~]` só existe uma v
 
 | Status | Mapa | Evidência |
 |---|---|---|
-| [ ] | `ze_egypt_two_lg` | 1 servidor / 32 jogadores |
+| [x] | `ze_egypt_two_lg` | 1 servidor / 32 jogadores |
 | [ ] | `ze_chikatetsu_01_dp` | 1 servidor / 26 jogadores |
 
 ## Já no repo e também em servidores reais
@@ -125,3 +125,11 @@ Legenda: `[ ]` falta baixar · `[x]` já está no repo · `[~]` só existe uma v
 3. Prioridade 3 e `ze_`, só se sobrar espaço no FastDL.
 
 Cada mapa baixado deve entrar com `.bsp`, `.res`, `.txt`, `.wad`, sons e modelos em `cstrike/`, e este arquivo deve ser atualizado trocando `[ ]` por `[x]`.
+
+## Tentativa de download de 2026-10-21
+
+Origem: GameBanana (API pública), com correspondência exata de nome. Baixados: 25 mapas (prioridades 1 e 2 + `ze_egypt_two_lg`), só `.bsp`, `.res`, `.txt`, `.wad`, modelos, sprites e sons. Imagens, logs e temporários foram descartados.
+
+Sem correspondência exata na GameBanana (buscar em outra fonte): `zm_foda`, `zm_fdust2x2`, `zm_zero_blood`, `zm_vendetta_v1`, `zm_fortuna`, `zm_pis2`, `zm_cscreativ_v1`, `zm_world_rmx_fixed`, `zm_assault`, `zm_carbon_castle2_snow`, `zm_kaozcity`, `zm_aztec_temple`, `zm_laboratory`, `zm_rs_colors_zero_remake`, `zm_fastplay`, `zm_gbox_mxp_se`, `zm_fox_v2`, `ze_chikatetsu_01_dp`. Há só versões parecidas lá (ex.: `zm_foda_remake_v3`, `zm_fortuna_fix`, `zm_assault_fayst`); não foram baixadas por não serem o mapa visto nos servidores.
+
+Prioridade 3 ainda não foi buscada.
