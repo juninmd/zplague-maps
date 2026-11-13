@@ -1,5 +1,9 @@
 # zplague-maps
 
+<p align="center">
+  <img src="docs/readme/hero.png" alt="Illustrative banner for zplague-maps (mockup with fictitious data)" width="100%">
+</p>
+
 **Non-default map pack for a Zombie Plague 5.0 server on Counter-Strike 1.6.**
 
 This repository collects the maps, WADs, models, sounds, sprites and skyboxes needed to run a Zombie Plague server with the `zplague-addons` setup. It is a server-side content pack: no plugins, no AMX Mod X configuration and no map cycle are included.
@@ -133,6 +137,18 @@ The maps, models, sounds, sprites, textures and WADs were made by different auth
 - If an author asks for removal, remove the map and its assets.
 
 The repository's role is to keep a working server pack together, not to claim authorship or ownership of the maps.
+
+## Screenshots
+
+> [!NOTE]
+> **Illustrative mockups.** The screens below were rendered from HTML with fictitious data (Playwright). They are not captures of a real installation.
+
+<p align="center">
+  <img src="docs/readme/pack.png" alt="Content pack — illustrative mockup with fictitious data" width="100%">
+  <br>
+  <sub>Content pack — fictitious data.</sub>
+</p>
+
 
 ## Limitations
 
