@@ -15,17 +15,17 @@ The pack contains **226 `.bsp` files**: 223 maps under `cstrike/maps/` and 3 mor
 | Component | Count | Location |
 |---|---|---|
 | Maps | 223 `.bsp` in the live tree | `cstrike/maps/` |
-| Map resources | 90 `.res` | `cstrike/maps/` |
+| Map resources | 92 `.res` | `cstrike/maps/` |
 | Bot navigation | 7 `.nav` | `cstrike/maps/` |
 | Map text files | 68 `.txt` | `cstrike/maps/` |
 | Map props and sounds | 119 `.mdl`, 40 `.wav`, 5 `.spr` | `cstrike/maps/` |
 | WADs | 19 `.wad` | `cstrike/` |
-| Models | 357 files | `cstrike/models/` |
-| Sounds | 235 files | `cstrike/sound/` |
-| Sprites | 46 files | `cstrike/sprites/` |
-| Skyboxes | 199 textures | `cstrike/gfx/env/` |
-| Detail textures | 11 textures | `cstrike/gfx/detail/` |
-| Radar images | 28 images plus 23 `.txt` | `cstrike/overviews/` |
+| Models | 315 files | `cstrike/models/` |
+| Sounds | 200 files | `cstrike/sound/` |
+| Sprites | 30 files | `cstrike/sprites/` |
+| Skyboxes | 198 textures | `cstrike/gfx/env/` |
+| Detail textures | 10 textures | `cstrike/gfx/detail/` |
+| Radar images | 28 images plus 22 `.txt` | `cstrike/overviews/` |
 
 Some maps ship their own models and sounds flat inside `cstrike/maps/` instead of a per-map folder. Keep those files where they are; the map refers to them by name.
 
@@ -51,7 +51,7 @@ The `cstrike/maps/README!.txt` file is an author note (it credits `Nazi.-`), not
 
 ### About `.res` files
 
-A `.res` file tells the client which extra files to download for a map. Only 90 of the 223 live maps include one. For the other maps, client downloads depend on your FastDL mirror and on the client already having the right WADs, models and sounds. If a map loads on the server but clients disconnect or see missing textures, check the FastDL paths first.
+A `.res` file tells the client which extra files to download for a map. Only 92 of the 223 live maps include one. For the other maps, client downloads depend on your FastDL mirror and on the client already having the right WADs, models and sounds. If a map loads on the server but clients disconnect or see missing textures, check the FastDL paths first.
 
 ## Folder layout
 
@@ -153,7 +153,7 @@ The repository's role is to keep a working server pack together, not to claim au
 ## Limitations
 
 - **No test results are included.** A map may load but have missing textures, broken spawns or require a specific plugin version.
-- **`.res` coverage is partial.** Only 90 of 223 maps ship a `.res`; clients may fail to download the rest if FastDL is incomplete.
+- **`.res` coverage is partial.** Only 92 of 223 maps ship a `.res`; clients may fail to download the rest if FastDL is incomplete.
 - **Radar coverage is partial.** Only 28 overview images are present for 223 maps.
 - **Bot navigation is partial.** Only 7 maps include a `.nav` file.
 - **Case matters.** The pack has mixed-case filenames such as `Zm_Ice_Abyss.bsp`, `Zs_Angra_Nest.bsp`, `zm_LUZ.bsp` and `zm_G1_city.bsp`. A Linux server with a case-sensitive filesystem needs the exact names.
